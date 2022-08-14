@@ -6,6 +6,7 @@ import Generator from './pages/Generator';
 import Exercises from './pages/Exercises';
 
 
+
 function App() {
   return (
     <Router>
