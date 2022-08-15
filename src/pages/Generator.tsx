@@ -2,7 +2,7 @@ import React from "react";
 
 const Generator = () => {
     return(
-        <h1>Generator</h1>
+        <h1>Generator Here</h1>
     );
 }
 
