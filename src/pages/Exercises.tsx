@@ -2,7 +2,7 @@ import React from "react";
 
 const Exercises = () => {
     return(
-        <h1>Exercises</h1>
+        <h1>Exercises List</h1>
     );
 }
 
